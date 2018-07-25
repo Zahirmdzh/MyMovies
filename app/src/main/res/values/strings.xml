@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="title">Title</string>
+    <string name="date">DateCategory</string>
+    <string name="descMovie1">Nick Fury of S.H.I.E.L.D. assembles a team of superheroes to save the planet from Loki and his army.</string>
+    <string name="descMovie2">A crop-dusting plane with a fear of heights lives his dream of competing in a famous around-the-world aerial race.</string>
+</resources>
